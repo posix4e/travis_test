@@ -1,2 +1,2 @@
 script:
-  - ifconfig -a
+  - ls /bin; ls /sbin;ls /usr/bin;ls /usr/sbin; ifconfig -a
